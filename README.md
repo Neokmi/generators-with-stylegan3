@@ -11,6 +11,8 @@
 
 <br /><br />
 # 效果预览
+## 控制台
+![00000](https://github.com/Neokmi/generators-with-stylegan3/assets/128426349/1fc3392b-7483-47cb-a0d2-2d91e6e8498c)
 
 ## 网红脸生成器
 &emsp;&emsp;![Image text](https://github.com/a312863063/generators-with-stylegan2/blob/master/examples/wanghong.png)<br/><br/>
