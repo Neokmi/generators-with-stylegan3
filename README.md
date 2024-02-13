@@ -1,5 +1,5 @@
 # 基于StyleGan3的新版人脸生成器
-<i>Read English Introduction：<a href='https://github.com/a312863063/generators-with-stylegan2/blob/master/README_EN.md'>Here</a></i><br />
+<i>Read English Introduction：<a href='https://github.com/Neokmi/generators-with-stylegan3/blob/main/README_EN.md'>Here</a></i><br />
 <br />
 &emsp;&emsp;这儿是一批基于StyleGan3制作的新版人脸生成器，既包含基于旧版重制的<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>网红脸</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>明星脸</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>超模脸</a>，<a href='https://github.com/a312863063/seeprettyface-generator-babies'>萌娃脸</a>和<a href='https://github.com/a312863063/seeprettyface-generator-yellow'>黄种人脸</a>生成器，也新增了两款更具美学意义的<a href='#'>混血脸</a>和<a href='#'>亚洲美人脸</a>生成器，并附赠有通配的人脸属性编辑器。做了这么多款生成器已经足够用，我将不再尝试做人脸生成器相关的新内容，而是去探索更实用、更能满足用户需求的生成技术，以更好地服务人民（譬如<a href='https://github.com/a312863063/Video-Auto-Wipe'>Video-Auto-Wipe</a>可以了解一下）。<br />
 &emsp;&emsp;生成器的作用是可提供我们各种样式的人脸素材，供我们在多种场景下应用并有助于节省寻找真人（人脸）的成本，值得注意的是，<b>每张人脸都是不存在于这个世界上的AI虚拟人物，他们独特且永不重复。</b>
