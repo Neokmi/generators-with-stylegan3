@@ -1,0 +1,36 @@
+
+开源模型：
+       黄种人脸生成器（generator_yellow-stylegan2-config-f.pkl）：
+              下载地址：https://pan.baidu.com/s/1E1F7cJjyHUC_fe70HGAK-w  提取码：tv56
+              
+       网红脸生成器（generator_wanghong-stylegan2-config-f.pkl）：
+              下载地址：https://pan.baidu.com/s/1tvwZFOPmB9kgPR7RkSlk1w  提取码：tyyd
+              
+       萌娃脸生成器（generator_baby-stylegan2-config-f.pkl）:
+              下载地址：https://pan.baidu.com/s/10qWI_g5b0AQId06BbmO4jg  提取码：5nj8
+              
+       明星脸生成器（generator_star-stylegan2-config-f.pkl）：
+              下载地址：https://pan.baidu.com/s/13d79Sv9J0-QQpYXeFtpAeA  提取码：98wk
+            
+       超模脸生成器（generator_model-stylegan2-config-f.pkl）：
+              下载地址：https://pan.baidu.com/s/1i7_R1PTuSgEwL0nETF9zxA  提取码：5d4f
+
+未开源模型：
+       黄金比例混血脸生成器（generator_mixed-blood-stylegan2-config-f.pkl）
+       亚洲美人脸生成器（generator_trendy-beauty-stylegan2-config-f.pkl）
+
+模型效果预览（均含1万张纯随机的生成样本）：
+      网红脸数据集：
+             下载地址：https://pan.baidu.com/s/1AqlNlTY0-tbEORPuKLdkqg  提取码：c7v9 
+      明星脸数据集：
+             下载地址：https://pan.baidu.com/s/1LabQMFLsKkYK3hLgRCQ-0A  提取码：p43h
+      超模脸数据集：
+             下载地址：https://pan.baidu.com/s/1AT4q1JkMvAxWrHMs4Af1wg  提取码：vxf4 
+      萌娃脸数据集：
+             下载地址：https://pan.baidu.com/s/1CQYQFiIdXxCSjJwSUo_tvw  提取码：4bd0
+      黄种人脸数据集：
+             下载地址：https://pan.baidu.com/s/1uC5fQ4UTALA1uU36Cgnnnw  提取码：rqvq
+
+---------------------------------------------------
+模型版权所有：
+       Copyright(c) 2018, seeprettyface.com, BUPT_GWY.
