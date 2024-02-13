@@ -7,7 +7,7 @@
 # license agreement from NVIDIA CORPORATION is strictly prohibited.
 
 import click
-import os
+import os,glob
 
 import multiprocessing
 import numpy as np
@@ -287,12 +287,7 @@ def main(
             viz.add_recent_pickle(pkl)
         viz.load_pickle(pkls[0])
     else:
-        pretrained = [
-            "networks/generator_baby-stylegan2-config-f.pkl",
-            "networks/generator_model-stylegan2-config-f.pkl",
-            "networks/generator_star-stylegan2-config-f.pkl",
-            "networks/generator_wanghong-stylegan2-config-f.pkl",
-            "networks/generator_yellow-stylegan2-config-f.pkl",
+        pretrained = glob.glob('networks/*.pkl') + [
             'https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan3/versions/1/files/stylegan3-r-afhqv2-512x512.pkl',
             'https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan3/versions/1/files/stylegan3-r-ffhq-1024x1024.pkl',
             'https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan3/versions/1/files/stylegan3-r-ffhqu-1024x1024.pkl',
