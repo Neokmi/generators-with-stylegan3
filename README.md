@@ -62,7 +62,6 @@
 &emsp;&emsp;上述这么多生成器看着有点可怕，但其实它离真正的商用之路还早着很呢（<a href='https://github.com/a312863063/Model-Swap-Face'>Model-Swap-Face</a>是一种可能的方向？）。。如果真想冲击传统视觉行业的话，至少有两个问题亟待解决：1.相关配套技术有待完善，譬如人脸植入、妆容精细控制、动画及全身合成等等；2.如何围绕精细的用户群构建特定的生成技术服务体系也有待探索。<br/><br/>
 
 # 环境配置
-实验环境: python11(>=3.8) + cuda 11.8 + pytorch 2.2.0 + vs2022 (>=2017)
 
 <br>Win手动安装:<br/>
 <br>git clone https://github.com/Neokmi/generators-with-stylegan3<br/>
